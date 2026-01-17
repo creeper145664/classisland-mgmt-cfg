@@ -4,5 +4,9 @@
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/creeper145664/classisland-mgmt-cfg/master/timelayouts.json",
         "Version": 1
+    },
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/creeper145664/classisland-mgmt-cfg/master/timelayouts.json",
+        "Version": 1
     }
 }
