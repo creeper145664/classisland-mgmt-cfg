@@ -7,6 +7,7 @@
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/creeper145664/classisland-mgmt-cfg/master/policy.json",
-        "Version": 3
+        "Version": 4
     }
+
 }
