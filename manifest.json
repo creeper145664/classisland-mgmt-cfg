@@ -1,7 +1,12 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "朱渝帆-ZhuYufan"
+    "OrganizationName": "朱渝帆-ZhuYufan",
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/creeper145664/classisland-mgmt-cfg/master/policy.json",
+        "Version": 1
+    }
 
 }
+
 
 
